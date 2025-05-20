@@ -1,7 +1,6 @@
 public class Main
 {
 	public static void main(String[] args) {
-	    
 	    // 1. Crie uma variável que informa a primeira letra do seu nome
 	    char letra_nome = 'R';
 	    
