@@ -14,11 +14,14 @@ O COMPETEC é um programa do PET-SI EACH-USP voltado ao ensino de programação 
 
 Conjunto de slides e resoluções de exercícios apresentados durante as aulas.
 
-- Aula 0 - [Material](./aula-0/)
+- Aula 1 - [Material](./aula-0/)
 Tipos Primitivos, Operações Aritméticas, Impressão e Scanner
 
-- Aula 1 - [Material](./aula-1/)
+- Aula 2 - [Material](./aula-1/)
 Comparações Lógicas, If/Else/Else If e Switch Case
+
+- Aula 3 (revisão) - [Material](./aula-3%20(revisão)/)
+Revisão de conceitos das aulas 1 e 2 + exercício de fixação
 
 
 ## 📃 Exercícios de Fixação
