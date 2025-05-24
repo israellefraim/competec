@@ -23,6 +23,9 @@ Comparações Lógicas, If/Else/Else If e Switch Case
 - Aula 2 (revisão) - [Material](./aula-2%20(revisão)/)
 Revisão de conceitos das aulas 1 e 2 + exercício de fixação
 
+- Aula 3 - [Material](./aula-3/)
+Repetições: While e For Loops 
+
 
 ## 📃 Exercícios de Fixação
 
