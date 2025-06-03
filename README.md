@@ -26,9 +26,14 @@ Revisão de conceitos das aulas 1 e 2 + exercício de fixação
 - Aula 3 - [Material](./aula-3/)
 Repetições: While e For Loops 
 
+- Aula 4 - [Material](./aula-4/)
+Repetições: Arranjos (Vetores) 
+
 
 ## 📃 Exercícios de Fixação
 
 Conjunto de exercícios recomendados aos alunos para que pratiquem programação fora da sala de aula.
 
 - Aulas 0 e 1 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aulas%200%20e%201/)
+
+- Aula 3 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%203)
