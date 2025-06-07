@@ -37,3 +37,5 @@ Conjunto de exercícios recomendados aos alunos para que pratiquem programação
 - Aulas 0 e 1 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aulas%200%20e%201/)
 
 - Aula 3 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%203)
+
+- Aula 4 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%204)
