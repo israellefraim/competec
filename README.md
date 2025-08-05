@@ -29,6 +29,15 @@ Repetições: While e For Loops
 - Aula 4 - [Material](./aula-4/)
 Repetições: Arranjos (Vetores) 
 
+- Aula 5 - [Material](./aula-5/)
+Repetições: Matrizes 
+
+- Aula 6 - [Material](./aula-6/)
+Repetições: Strings
+
+- Aula 7 (revisão final) - [Material](./aula-7%20(revisão)/)
+Revisão de conceitos de todas as aulas + exercícios de fixação
+
 
 ## 📃 Exercícios de Fixação
 
