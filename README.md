@@ -1,4 +1,4 @@
-# 📓COMPETEC-2025
+# 📓COMPETEC-2026
 
 ![Foto da logo do competec](./competec.jpg)
 
@@ -14,37 +14,57 @@ O COMPETEC é um programa do PET-SI EACH-USP voltado ao ensino de programação 
 
 Conjunto de slides e resoluções de exercícios apresentados durante as aulas.
 
-- Aula 0 - [Material](./aula-0/)
-Tipos Primitivos, Operações Aritméticas, Impressão e Scanner
+- Aula -1 - [Material](./aula--1/)
+Apresentação do COMPETEC
 
-- Aula 1 - [Material](./aula-1/)
-Comparações Lógicas, If/Else/Else If e Switch Case
+<!-- - Aula 0 - [Material](./aula-0/)
+Tipos Primitivos, Operações Aritméticas, Impressão e Scanner -->
 
-- Aula 2 (revisão) - [Material](./aula-2%20(revisão)/)
-Revisão de conceitos das aulas 1 e 2 + exercício de fixação
+<!-- - Aula 1 - [Material](./aula-1/)
+Comparações Lógicas, If/Else/Else If e Switch Case -->
 
-- Aula 3 - [Material](./aula-3/)
-Repetições: While e For Loops 
+<!-- - Aula 2 (revisão) - [Material](./aula-2%20(revisão)/)
+Revisão de conceitos das aulas 1 e 2 + exercício de fixação -->
 
-- Aula 4 - [Material](./aula-4/)
-Repetições: Arranjos (Vetores) 
+<!-- - Aula 3 - [Material](./aula-3/)
+Repetições: While e For Loops  -->
 
-- Aula 5 - [Material](./aula-5/)
-Repetições: Matrizes 
+<!-- - Aula 4 - [Material](./aula-4/)
+Repetições: Arranjos (Vetores)  -->
 
-- Aula 6 - [Material](./aula-6/)
-Repetições: Strings
+<!-- - Aula 5 - [Material](./aula-5/)
+Repetições: Matrizes  -->
 
-- Aula 7 (revisão final) - [Material](./aula-7%20(revisão)/)
-Revisão de conceitos de todas as aulas + exercícios de fixação
+<!-- - Aula 6 - [Material](./aula-6/)
+Repetições: Strings -->
+
+<!-- - Aula 7 (revisão final) - [Material](./aula-7%20(revisão)/)
+Revisão de conceitos de todas as aulas + exercícios de fixação -->
 
 
 ## 📃 Exercícios de Fixação
 
 Conjunto de exercícios recomendados aos alunos para que pratiquem programação fora da sala de aula.
 
-- Aulas 0 e 1 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aulas%200%20e%201/)
+<!-- - Aulas 0 e 1 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aulas%200%20e%201/) -->
 
-- Aula 3 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%203)
+<!-- - Aula 3 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%203) -->
 
-- Aula 4 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%204)
+<!-- - Aula 4 - [Lista de Exercícios](./Exercícios%20de%20Fixação/Aula%204) -->
+
+## 📚 Indicações de Estudos
+
+Lista de Materiais Complementares sobre Programação, Java e o Paradigma de Orientação a Objetos. Recomendados pelos professores do COMPETEC aos alunos que quiserem expandir seu conhecimento além das aulas do programa.
+
+> OBS: este conteúdo não necessariamente será abordado durante o curso, **portanto, não é de leitura obrigatória**.
+
+<!-- ### ➡️ Java -->
+
+<!-- ### ➡️ Programação -->
+
+### ➡️ Orientação a Objetos
+
+**DISCIPLINA ONLINE (Univesp):** Engenharia de Computação - Programação Orientada a Objetos.
+- Playlist pública de aulas gravadas da diciplina:
+    - Conceitos básicos e avançados de programação orientada a objetos aplicações com *Java*.
+    - **LINK DE ACESSO:** https://www.youtube.com/playlist?list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1
