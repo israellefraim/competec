@@ -17,20 +17,20 @@ Conjunto de slides e resoluções de exercícios apresentados durante as aulas.
 - Aula -1 - [Material](./aula--1/)
 Apresentação do COMPETEC
 
-<!-- - Aula 0 - [Material](./aula-0/)
-Tipos Primitivos, Operações Aritméticas, Impressão e Scanner -->
+- Aula 0 - [Material](./aula-0/)
+Tipos Primitivos, Operações Aritméticas, Impressão e Scanner
 
-<!-- - Aula 1 - [Material](./aula-1/)
-Comparações Lógicas, If/Else/Else If e Switch Case -->
+- Aula 1 - [Material](./aula-1/)
+Comparações Lógicas, If/Else/Else If e Switch Case
 
-<!-- - Aula 2 (revisão) - [Material](./aula-2%20(revisão)/)
-Revisão de conceitos das aulas 1 e 2 + exercício de fixação -->
+- Aula 2 - [Material](./aula-2/)
+Comparações Lógicas, If/Else/Else If e Switch Case
 
-<!-- - Aula 3 - [Material](./aula-3/)
-Repetições: While e For Loops  -->
+- Aula 3 - [Material](./aula-3/)
+Repetições: While e For Loops 
 
-<!-- - Aula 4 - [Material](./aula-4/)
-Repetições: Arranjos (Vetores)  -->
+- Aula 4 (revisão) - [Material](./aula-4/)
+Revisão de conceitos das aulas (pré-campeonato)
 
 <!-- - Aula 5 - [Material](./aula-5/)
 Repetições: Matrizes  -->
